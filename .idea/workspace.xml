@@ -20,24 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e768858-72c9-40e2-bbba-4a6a8ee5a323" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/console.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/evets_ref.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/refs/evets_ref.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/fs_refs.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/refs/fs_refs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/notes/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/refs/notes/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/os_refs.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/refs/os_refs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refs/path_refs.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/refs/path_refs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/views/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodeExpress/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeExpress/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodeExpress/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -105,7 +103,7 @@
       <workItem from="1622458303519" duration="2201000" />
       <workItem from="1622531739967" duration="1204000" />
       <workItem from="1622724648743" duration="181000" />
-      <workItem from="1622725071915" duration="660000" />
+      <workItem from="1622725071915" duration="1651000" />
     </task>
     <servers />
   </component>
